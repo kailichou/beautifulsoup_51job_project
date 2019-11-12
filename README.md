@@ -1,12 +1,6 @@
 # beautifulsoup_51job_project
 Web scrapping with BeautifulSoup 4 on 51job.com
 
-This is my first web scrapping project as a very beginner.
+This is my first web scrapping projec.
+The web is encoded in GBK rather than utf-8, thus, exporting as csv file will cause error codes while opening in Excel.
 
-
-
-
-References:
-
-Intro to Web Scraping with Python and Beautiful Soup https://www.youtube.com/watch?v=XQgXKtPSzUI
-Web Scrapping with Python, O'leiy
