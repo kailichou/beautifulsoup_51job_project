@@ -19,5 +19,4 @@ Search keywords 'data analyst' in the site, there are 50 job listings on 1 page.
 
 ### Descriptive Statistics
 
-<img>/Users/kailic/Downloads/logo.jpg</img>
 
