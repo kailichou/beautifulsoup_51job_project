@@ -14,9 +14,8 @@ Web scrapping 51job.com with BeautifulSoup, which is a popular job hunting websi
 - Salary_range
 - Date_posted
 
-Search keywords 'data analyst' in the site, there are 50 job listings on 1 page. In total, 62 pages.
+Search keywords 'data analyst' in the site, there are 50 job listings on 1 page. In total, the spider found 3050 job listings.
 
-Found _ jobs including either 'analyst' or Chinese characters '分析师'.
 
 ### Descriptive Statistics
 
