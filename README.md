@@ -18,4 +18,13 @@ Note: the collected data is extremely selective because I targeted job titles th
 
 ### Descriptive Statistics
 
+|              |Job Title      |Company       |Location    |
+| ------------ | ------------- | ------------ | ---------- |
+| count        | 3050          | 3050         | 3050       |
+| unique       | 2250          | 1528         | 81         |
+| top          | 生物信息工程师   | 杭州联川生物技术股份有限公司 | 上海       |
+| freqency     | 42            | 36           | 1151       |
 
+
+There are 81 locations where 1528 companies are currently hiring.
+Shanghai has jobs that 3.0 times more than the second ranked location.
