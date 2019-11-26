@@ -1,6 +1,6 @@
 # Project: Analysis of Data Analyst Job Positions listed at 51job
 
-Web scrapping 51job.com with BeautifulSoup, it is a popular job hunting website in China. It would be interesting to take a look at the job market for data analysts/data engineers since data scientists are the sexiest job in 21th century and the most sought-after positions in America. Is it the case in China? After gathering data, it's time to play round with it. 
+Web scrapping 51job.com with BeautifulSoup, it is a popular job hunting website in China. It would be interesting to take a look at the job market for data analysts/data engineers since data scientists are the sexiest job in 21st century and the most sought-after positions in America. Is it the case in China? After gathering data, it's time to play round with it. 
 
 
 ## Summary
