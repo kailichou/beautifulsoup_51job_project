@@ -1,4 +1,5 @@
-# Project: Data Analyst Job Market in China based on listings at 51job
+# Project: Data Analyst Job Market in China 
+## Scraped data from job listings at https://www.51job.com
 
 Web scrapping 51job.com with BeautifulSoup, it is a popular job hunting website in China. It would be interesting to take a look at the current job market for data analysts/data engineers since it is claimed that these are the sexiest job in 21st century and the most sought-after positions in America. Is it the case in China? After gathering data, it's time to play round with it. 
 
@@ -9,7 +10,7 @@ Web scrapping 51job.com with BeautifulSoup, it is a popular job hunting website 
 | 1st Datasets               | 2nd Datasets              |
 | -------------------------- | ------------------------- |
 | Job_title(not null)        |
-| Link_of_that_job(not null)  |
+| Link_of_that_job(not null) |
 | Company_name(not null)     |
 | Work_location              |
 | Salary_range               |
