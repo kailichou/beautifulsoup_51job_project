@@ -1,5 +1,5 @@
 # Project: Data Analyst Job Market in China 
-## Scraped data from job listings at 51job<https://www.51job.com>
+## Scraped data from job listings at [51job](https://www.51job.com)
 
 Web scrapping 51job.com with BeautifulSoup, it is a popular job hunting website in China. It would be interesting to take a look at the current job market for data analysts/data engineers since it is claimed that these are the sexiest job in 21st century and the most sought-after positions in America. Is it the case in China? After gathering data, it's time to play round with it. 
 
@@ -37,5 +37,5 @@ Shanghai has 3.47 times more jobs than the second ranked location.
 
 
 ## Reference:
-[1] **Data Science and Analytics<https://www.pwc.com/us/en/library/data-science-and-analytics.html>**
+[1] **[Data Science and Analytics](https://www.pwc.com/us/en/library/data-science-and-analytics.html)**
 
