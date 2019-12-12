@@ -7,8 +7,8 @@ Web scrapping 51job.com with BeautifulSoup, it is a popular job hunting website 
 ## Summary
 ### Dataset
 
-| 1st Datasets| Date_posted | Job_title(not null) | Company_name | Work_location | Minimum_pay  |                    |
 | ------------| ------------|---------------------|--------------|---------------|--------------|--------------------|
+| 1st Datasets| Date_posted | Job_title(not null) | Company_name | Work_location | Minimum_pay  |                    |
 | 2nd Datasets| Job_title   | Company_name        | Entity       | Staff_number  | Industry     | Job_responsibility |
  
 
