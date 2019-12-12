@@ -7,14 +7,11 @@ Web scrapping 51job.com with BeautifulSoup, it is a popular job hunting website 
 ## Summary
 ### Dataset
 
-| 1st Datasets               | 2nd Datasets              |
-| -------------------------- | ------------------------- |
-| Job_title(not null)        | Job_title                 |
-| Link_of_that_job(not null) | Company_name              |
-| Company_name(not null)     | Entity                    |
-| Work_location              | Staff_number              |
-| Salary_range               | Industry                  |
-| Date_posted                | Job_responsibility        |
+| 1st Datasets| Date_posted | Job_title(not null) | Company_name | Work_location | Minimum_pay  |                    |
+| ------------| ------------|---------------------|--------------|---------------|--------------|--------------------|
+| 2nd Datasets| Job_title   | Company_name        | Entity       | Staff_number  | Industry     | Job_responsibility |
+ 
+
 
 In total, there are 62 pages to scrape and each page has 50 job listings. Thus, the spider found 3050 job listings from 51job.com. Exclude the job posts that are not under 51job.com domain, there are 2898 job posts found. Based on the post dates pattern, 51job updates job listings everyday and keeps posted jobs for 2-month period among their searching results.
 
@@ -31,10 +28,12 @@ Note: the collected data is extremely restrictive because I targeted job titles 
 | top          | 生物信息工程师   | 杭州联川生物技术股份有限公司 | 上海       |
 | freqency     | 42            | 36           | 1151       |
 
-![Image of Jobs in Top Hiring Cities ](https://github.com/kailichou/beautifulsoup_51job_project/blob/master/Datasets/cities.png)
-
 There are 81 locations where 1528 companies are currently hiring.
 Shanghai has 3.47 times more jobs than the second ranked location.
+
+![Image of Jobs in Top Hiring Cities ](https://github.com/kailichou/beautifulsoup_51job_project/blob/master/Datasets/cities.png)
+
+
 
 
 ## Reference:
