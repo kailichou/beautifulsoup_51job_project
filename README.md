@@ -31,6 +31,7 @@ Note: the collected data is extremely restrictive because I targeted job titles 
 | top          | 生物信息工程师   | 杭州联川生物技术股份有限公司 | 上海       |
 | freqency     | 42            | 36           | 1151       |
 
+![Image of Jobs in Top Hiring Cities ](https://github.com/kailichou/beautifulsoup_51job_project/blob/master/Datasets/cities.png)
 
 There are 81 locations where 1528 companies are currently hiring.
 Shanghai has 3.47 times more jobs than the second ranked location.
