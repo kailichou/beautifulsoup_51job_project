@@ -37,6 +37,7 @@ Shanghai has 3.47 times more jobs than the second ranked location.
 
 
 
-## Reference:
-[1] **[Data Science and Analytics](https://www.pwc.com/us/en/library/data-science-and-analytics.html)**
+## BI | Interactive Data Visualisation at Tableau Public
+
+**Tableau Link(https://public.tableau.com/profile/kaili8237#!/vizhome/DataAnalystsAnalystsJobMarketinChina/DataAnalystsJobMarketinChina?publish=yes)**
 
