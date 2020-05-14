@@ -1,5 +1,5 @@
 # Project: Data Analyst Job Market in China 
-## Scraped data from a Chinese recruitment website over 2 month period
+## Scraped data from a Chinese recruitment website
 
 ### Objective
 
