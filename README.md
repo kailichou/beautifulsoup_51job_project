@@ -3,7 +3,7 @@
 
 ### Objective
 
-A question popped into my head while looking for job opportunities. What is the current job market for data analyst/data engineers? Instead of getting information from a report from a HR agency, it is even more straightforward to look at the first-hand data from the market.
+A question popped into my head while looking for job opportunities. What is the current job market for data analyst/data engineers? Instead of getting information from a report, it is even more straightforward to look at the first-hand data from the market.
 
 Hence, I prepared to make a research. It's intriguing to take a look at the sexiest job in 21st century. Is it the case in China? After gathering data, it's time to play round with it. 
 
