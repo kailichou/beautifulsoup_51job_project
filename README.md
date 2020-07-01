@@ -21,7 +21,35 @@ Hence, I prepared to make a research. It's intriguing to take a look at the sexi
 In total, there are 3050 job listings over 2 month period in whole China. Exclude the job posts that are not under 51job.com domain, there are 2898 job posts found. Based on the post dates pattern, 51job updates job listings everyday and keeps posted jobs for 2-month period among their searching results.
 
 
+# Titanic: ML from Disaster
 
+
+**Classification Problem**: <br>
+Predict what sorts of people were most likely to survive the Titanic disaster.
+
+<u>Objectives: </u><br><br>
+On the basis of the training data we would like to:
+- accurately predict unseen test cases
+- understand which inputs affect the outcome, and how
+- assess the quality of our predictions and inferences
+
+## Dataset
+
+- Outcome measurement $Y$
+- Vector of $p$ predictor measurements $X$
+
+**Training data**
+$$
+(X_{1},y_{1}), ... (X_{N},y_{N})\\
+where\, N\ is\, the\, number\, of\, observations.
+$$
+
+Binary outcomes $Y$:
+
+|  | outcome |
+| -- |:----:|
+| survivor|1 |
+| victim | 0 |
 
 
 ### Descriptive Statistics
